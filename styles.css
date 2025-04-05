@@ -1,0 +1,88 @@
+/* General styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Dark blue gradient */
+}
+
+/* Login & Upload Page Styling */
+.auth-container, .upload-container {
+    background-color: #222831;
+    padding: 25px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    width: 400px;
+    border-radius: 12px;
+    text-align: center;
+    color: #eeeeee;
+}
+
+/* Heading */
+.animated-heading {
+    font-size: 24px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Input Fields */
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #eeeeee;
+}
+
+.input-group input, input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #0072ff;
+    border-radius: 6px;
+    background-color: #393e46;
+    color: #eeeeee;
+    transition: all 0.3s ease;
+}
+
+.input-group input:focus, input[type="file"]:focus {
+    border-color: #00c6ff;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 198, 255, 0.6);
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #0072ff, #00c6ff);
+    transform: scale(1.05);
+}
+
+/* Upload Message */
+.upload-message {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+

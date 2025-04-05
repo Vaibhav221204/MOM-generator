@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Meeting Recording</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="upload-container">
+        <h1 class="animated-heading">📂 Upload Your Meeting Recording</h1>
+        <p>Select a recording file to upload.</p>
+        
+        <form id="uploadForm">
+            <input type="file" id="fileInput" accept=".mp3, .wav, .mp4" required>
+            <button type="submit">Upload</button>
+        </form>
+
+        <p id="uploadMessage" class="upload-message"></p>
+    </div>
+
+    <script src="upload.js"></script>
+</body>
+</html>
+
