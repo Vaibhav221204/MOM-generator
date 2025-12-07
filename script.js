@@ -6,7 +6,7 @@ const errorMessage = document.getElementById('error-message');
 const togglePassword = document.getElementById('togglePassword');
 
 // Updated authentication credentials
-const validEmail = 'vaibhav22gandhi@gmail.com';
+const validEmail = 'vaibhav@gmail.com';
 const validPassword = 'vaibhav';
 
 authForm.addEventListener('submit', function (e) {
