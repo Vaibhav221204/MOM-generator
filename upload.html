@@ -1,25 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upload Meeting Recording</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Upload Meeting Recording</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <div class="layout-container">
+    <!-- Upload Form -->
     <div class="upload-container">
-        <h1 class="animated-heading">📂 Upload Your Meeting Recording</h1>
-        <p>Select a recording file to upload.</p>
-        
-        <form id="uploadForm">
-            <input type="file" id="fileInput" accept=".mp3, .wav, .mp4" required>
-            <button type="submit">Upload</button>
-        </form>
+      <h1 class="animated-heading">📂 Upload Meeting Audio</h1>
+      <p class="instruction">Choose a file to transcribe and summarize.</p>
 
-        <p id="uploadMessage" class="upload-message"></p>
+      <form id="uploadForm">
+        <input type="file" id="fileInput" accept=".mp3, .wav, .mp4" required />
+        <button type="submit">Upload</button>
+      </form>
     </div>
 
-    <script src="upload.js"></script>
+    <!-- Output Section -->
+    <div class="output-container">
+      <h2>📝 Output</h2>
+      <div id="uploadMessage" class="result-box">
+        <!-- Transcription & Summary go here -->
+      </div>
+    </div>
+  </div>
+
+  <script src="upload.js"></script>
 </body>
 </html>
+
+
 

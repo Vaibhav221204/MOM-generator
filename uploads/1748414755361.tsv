@@ -1,0 +1,707 @@
+start	end	text
+0	3280	fancy process and the global transparency reporting.
+3280	8320	We do it at entity, at legal entity level.
+8320	14320	To why during the project, we wanted to have one combined report
+14320	16080	for two legal entities.
+16080	18000	What was the rationale behind would you
+18000	23800	know that Felix, do you know Rashid?
+23800	26200	So for India, we have two company codes.
+26200	29400	Ion01 and Ion10.
+29400	33320	So now we have been tracking all the payment information,
+33320	35640	even when India was an internal market.
+35640	38000	We have been using both the company codes
+38000	43240	and tracking the details in GTC for both of these company
+43240	43960	codes.
+43960	49360	We were not sure that these two are two separate legal entities,
+49360	50240	so to say.
+50240	53920	So this was observed very recently, Matthew,
+53920	56560	when we were going to prepare the idea report,
+56560	57280	that is very important.
+57280	59880	I understand that the details.
+59880	61760	So Rashid, if I understand what you're saying
+61760	63720	is that there was not a conscious decision
+63720	66800	from the global transparency team to merge two legal entities
+66800	70600	to one, it's just that we didn't know, right?
+70600	72000	OK.
+72000	76840	Now, the thing is that then the system has
+76840	81160	been set up only for, has been linked to only one legal entity,
+81160	84280	not the two of them.
+84280	85280	Is that correct, Rashid?
+85280	87320	We are uploading data for both.
+87320	89960	There is no segregation, but we are uploading data
+89960	90800	for both of these.
+90800	95680	But for ITR, you would need then two ITR entries
+95680	96880	for the two legal entities.
+96880	97200	Yes.
+97200	99200	Right now, we have a combined report for both
+99200	102000	where there is no segregation basis the legal entity.
+102000	103600	OK.
+103600	107040	And do we know what the local codes say in India?
+107040	110200	Do they say one reporting per legal entity?
+110200	111920	Is it legal requirements?
+111920	114320	I mean, at least a regular requirement.
+117320	119320	It is with you.
+119320	120520	It needs to.
+120520	121840	Yeah, it is.
+121840	125680	Because the other entity, which is the Novartis India
+125680	129040	Limited, is the listed entity.
+129040	131680	It's listed on the stock exchange.
+131680	135840	And that needs to be disclosed separately.
+135840	138240	OK.
+138240	141480	And I think then the answer is pretty simple, right?
+141480	145120	So what is the deadline for the reporting?
+145120	147480	I understand it's in a week time.
+147480	149360	It's end of May.
+149360	151920	This weekend, I would say, target.
+151920	152720	OK.
+152720	158800	So there is no chance that with IQVA, we can set up the ITR
+158800	160240	for the missing legal entities.
+160240	163240	Is it a statistic?
+163240	164240	I don't think so, Matthew.
+164240	167520	But what we can do is one option is we can generate
+167520	171320	at least one report with the maximum major values
+171320	176440	and invalidate some of the spends for other legal entities.
+176440	177360	OK.
+177360	179040	Yes, definitely.
+179040	185920	It's one possibility that we do Novartis LSCAR LTT
+185920	187680	with ITR.
+187680	191240	The only risk that we have is the duplicating,
+191240	194200	the duplicate reporting, because there might be
+194200	199240	how will you split the TEOVs per legal entity?
+199240	200880	You see what I mean?
+200880	204440	Satish is that there is a risk that we report some of the TEOVs
+204440	207640	that are linked to Novartis India LTT,
+207640	211120	meaning that when they will do the manual reporting
+211120	215760	in Excel or whatever, there might be some duplicating TEOVs there.
+215760	218400	No, we have that segregation at SAP level,
+218400	219960	because we are using that data.
+219960	222400	We have that segregation at the end.
+222440	225360	So this is my understanding, Matthew.
+225360	227200	We can generate one report.
+227200	231520	So we can look at the maximum line items and maximum volume.
+231520	236440	And if the volume with Novartis India limited is less,
+236440	240760	then we can invalidate them and still generate a ITR report.
+240760	242760	OK, so we can manually do that.
+242760	245280	So for that expense, it's just one less question
+245280	246200	before we take a decision.
+246200	248560	So for that expense is clear, and I understand
+248560	252360	there is no risk of duplication for indirect spend colleagues.
+252800	254720	How do we make the split between the TEOVs?
+254720	257960	For us, the source of data is only SAP Matthew.
+257960	259840	There is no other indirect also.
+259840	262680	We are taking it from SAP only.
+262680	263520	Then we are good.
+266000	270760	So I need this.
+270760	274640	I would effectively be in favor to use the global transparency
+274640	277640	solution for the reporting of one of the TEOVs,
+277640	281840	but I really want the local compliance team
+281840	285160	to be comfortable with that.
+285160	285920	Perfect.
+285920	289480	So Matthew, really the challenge is here on the second point.
+289480	290760	Product is pretty quickly.
+290760	293640	We already discussed earlier with Rashi.
+293640	296080	And there was a work around that they proposed right now,
+296080	298080	which we could have worked.
+298080	300240	But challenge really is the second point
+300240	304040	where we would have to capture the posting data as well,
+304040	306640	which is not there currently in the SAP I bear report.
+306640	310800	So that means we will have a missing data coming in the ITR report.
+310800	311600	OK.
+312440	315280	Just on this front, I don't.
+315280	318720	So this is very different.
+318720	321320	Usually transparency reporting is based on payment.
+321320	326360	So we are disclosing what Novartis effectively
+326360	330960	give to HTTP's, HEO's, and patient organizations.
+330960	333200	What I'm trying to understand is, is it
+333200	337160	are we sure that this is the regulatory requirement
+337160	342240	to disclose at an event level and not at payment level,
+342240	343680	because this is very new to me.
+343680	346720	We don't have such situation in any of the 50
+346720	349160	pressed countries that we are managing.
+349160	351400	So Matthew, you're absolutely correct.
+351400	354200	So Novartis, so not Novartis, India
+354200	357280	has got a pretty unique regulatory requirement,
+357280	361680	which requires the pharmaceutical organizations
+361680	364600	to report at the event level, which
+364600	370200	means once an event happens and the provisions are made,
+370200	376760	so the postings that happens through the financial reporting
+376760	379440	needs to be captured.
+379440	381800	And this clarification has been
+381800	385960	grow, has been received through the industry association,
+385960	390800	and also through the Department of Pharmaceuticals
+390800	392920	for India.
+392960	395480	So this is a directive that we've,
+395480	400480	so what happens is for March 31st is the annual year end.
+400480	404520	So events that happen the last week or in the month,
+404520	408040	depending on the contact of the vendors,
+408040	411640	the payment will not get processed in time,
+411640	413520	but it will get provisioned.
+413520	418040	And if it gets provisioned, it can still be posted.
+418040	418880	Yeah.
+418880	421080	Payment can happen at a later stage.
+421080	423880	So that needs to be, and because the event
+423880	427240	has happened within the fiscal year,
+427240	430160	it needs to be captured in the report.
+430160	431720	Nice images.
+431720	432960	OK.
+432960	439200	But so, and we have a clear view on what
+439200	445680	has been accrued as of March 31st, that the net needs,
+445680	448600	sorry, that they need to be reported.
+448600	450920	Do we have a clear visibility on the accords?
+450920	451760	Absolutely.
+451760	454560	There was absolutely, yes.
+454560	456960	So Matthew, we know that there are payments that are posted,
+456960	461000	which have to be considered for the purpose of reporting.
+461000	463080	But if you are asking clear visibility,
+463080	467200	I think we don't have that split between what is the exact payment
+467200	471400	that needs to be, that is in the posting case state,
+471400	474000	because that keeps on changing a week after week.
+477120	478840	Can you repeat this last sentence?
+478840	481600	I'll teach you the issue of the issue of the issue of the accords.
+481600	485680	So let's assume you have an event of 100.
+485680	489440	60 has been already invoiced as of March 1st,
+489440	492680	so it's in an L has been paid, sorry, as in paid.
+492680	494480	So it's already in ACP.
+494480	496400	You have 40.
+496400	498760	You know that the service has been executed,
+498760	501600	so you have 40 that has been accrued.
+501600	505560	But by March 31st, this has not been paid.
+505560	509240	But those 40, if I understand well the whole that we have in India,
+509240	511880	those 40 needs to be reflected.
+511880	514640	But with the accords that have been done,
+514640	518520	we should be able to link the accrued amount with the event.
+518520	521200	No?
+521200	525320	So Matthew, we don't have this event while identification.
+525320	527200	There is a payment that does not happen yet.
+530440	532680	So we don't have even spy event,
+532680	537560	the split between paid and accrued.
+537560	542880	But then colleagues, I mean, please don't get us wrong.
+542880	544840	We will never force you to use a system
+544840	546360	that you are not comfortable to use.
+546360	548480	Honestly, considering the situation
+548480	551320	and considering that we need to report by the end of the week,
+551320	555240	this is really, we need to go with what we use,
+555240	558000	what we feel is the best solution.
+558000	561360	The thing is, if you don't have it for the global transparency solution,
+561360	564280	you will not have it neither for in Excel, right?
+564280	569920	So how do you plan to solve this?
+569920	571280	You see what I mean?
+571280	572160	You see what I mean?
+572160	577200	If you don't have an ACP and you don't have the accrual pair events,
+577200	579440	even if you are not using the global transparency solution
+579440	584240	and you do the reporting manually, how will you do that?
+584240	588720	OK, so the payment which has been happened in SAP
+588720	591640	that we can find out from SAP IBI.
+591640	594120	Now, the issue right now, what we are having
+594120	598480	that those events which happened in February, March,
+598480	602840	their invoice have been posted in SAP,
+602840	605600	but that does not been paid because payment
+605600	610920	would happen basis the credit arms of the vendors.
+610920	613760	So it received not invoiced?
+613760	614640	Yes.
+614640	619640	So if we can see, we may see our status in SAP
+619640	624520	as a post date or created or index, but not the paid.
+624520	628120	And that paid goes to SAP IBI.
+628120	632840	So those payments basis the SAP individual data.
+632840	636840	We have taken an account and factored for reporting,
+636840	641840	but those data is completely missed in this SAP IBI, IBI report.
+641840	646120	Probably in future, one, two months, probably two months
+646120	648960	down the line, we may get the data.
+648960	654040	So that is the reason, the manual data captured,
+654040	662880	all which are paid plus provision plus a post date.
+662880	664960	I'm happy just to simplify.
+664960	667480	In Be sure, we always capture the quotation
+667480	669120	as well as invoices.
+669120	671640	The basis there, the tracking was already prepared
+671640	674680	by the third party, which captures against which event,
+674680	677120	which are the payments pending to be posted
+677120	680520	and which are already in the SAP.
+680520	682760	So we have that available, but it is just
+682760	685000	that we don't have a report which clearly
+685000	688480	by for case, what is paid and posted in SAP right now.
+688480	693720	So it was a manual of what that has enabled us to reconcile
+693720	694640	all of this.
+694640	695240	Mathya.
+695240	696000	Yeah.
+696000	697560	Yeah, Mathya.
+697560	698600	Yeah.
+698880	701000	And there were two other three, I mean,
+701000	703120	incidentals, but important.
+703120	705160	One, this is the first time, of course, India
+705160	708560	is coming under the Transparency Reporting Act,
+708560	712840	and which means, and also given whatever indications
+712840	715640	that we have, the multinational organizations
+715640	717840	are going to be under a lot more scrutiny
+717840	720880	than the local organizations are.
+720880	723280	They've already made an example of one
+723280	727040	of the multinational organizations a few months back
+727040	729280	on one of the breaches.
+729280	733280	And all indications are that all multinational organizations
+733280	736200	are going to be under heavy scrutiny
+736200	738640	for at least the cycle, right?
+738640	742040	So hence, there has been a lot of reliance on what
+742040	746160	is going to be a uniform standard approach to reporting
+746160	750120	across the members, the member organizations
+750120	752280	of the association.
+752280	755840	And we are having a uniform approach
+755840	760240	towards reporting some of these, right?
+760240	764800	So we are being a lot more conservative and not aggressive.
+764800	768440	And we are ensuring that even the ones
+768440	773200	which have been accrued, and one spare services have been
+773200	776200	taken, but payments will be made at a later stage.
+776200	778720	They'll still be reported.
+778720	782520	There is a provision where we have,
+783240	785840	used disclaimers.
+785840	788280	And we have also put in those comments,
+788280	790800	but not exhaustive, limited comments,
+790800	794080	just to ensure that some of the clarity could be
+794080	796080	provided towards some of these items.
+796080	800680	So hence, the concern on how we really show up
+800680	803040	in the first year of reporting.
+803040	804680	But Adi Nash, then, are you telling me
+804680	809880	that you already have done the data collection, right?
+809880	812200	For what you believe should be disclosed
+812200	814920	by the end of this week.
+814920	818280	You have for the truly guaranteed days.
+818280	819120	Yeah.
+822120	826280	I mean, what is the question today?
+826280	828720	Is it the, are you asking for an exemption
+828720	830880	to use the global solution and the global end
+830880	832320	to follow the global process?
+834520	836000	Now, that's the intent, Matthew.
+836000	838760	Just to bring you wherever.
+838760	839280	Thank you.
+839280	841520	Where that goes from the country
+841520	843360	is to go with the manual disclosure,
+843360	847880	but for now, standard global transparency solution
+847880	849720	because we recently implemented.
+849720	852800	I'm absolutely, but for me, it's fine.
+852800	853640	Absolutely.
+853640	855240	I mean, I will never prevent you
+855240	857120	to do what you feel it's best for you.
+857120	859280	We are no one to say that.
+859280	860880	I mean, I feel it's a little bit ashamed
+860880	863360	that the teams and so much effort to implement.
+863360	865520	I don't know exactly if we missed something
+865520	868960	in the business requirements,
+868960	871800	or if we did not enough listen to you.
+871800	875000	But obviously, if you have the report really
+875000	877960	in with the manual data collection
+877960	879960	and you feel comfortable with the figures,
+879960	882480	you should report that you have definitely.
+882480	884040	I mean, I don't know.
+884040	886720	I mean, Ashley, is it what you were asking for more?
+886720	888440	That was the, that was the ask,
+888440	893960	but you will also develop a couple of other evolving
+893960	894800	situations.
+894800	896720	The other evolving situation was one
+896720	901520	of the key signatories to the transparency report
+901520	903520	was the country precedent.
+903520	906160	And the country precedent would have
+906160	908920	to record a signature on the report
+908920	911280	before the report is presented.
+911280	913360	And he was also traveling.
+913360	916440	So he's currently out of the country.
+916440	919600	So before he moved out of the country
+919600	922840	or official purpose, we had to kind of see the report.
+924440	929080	And be comfortable with what was captured in the report.
+929080	931760	So if, and those were the pieces.
+931760	934160	And of course, all of this was in accordance
+934160	940360	and in line with how the association guided us.
+940360	944120	And what was the directive in terms
+944120	946200	of how it had to be presented.
+946200	952040	So those were, of course, weighed in also very heavily.
+952040	956840	And hence the ask and the request from Ashley.
+956840	959880	I mean, Ashley, no, no, so let's go apparently,
+959880	963160	you're already, you know, you're done with the reporting.
+963160	965240	So let's continue what you've initiated.
+965240	970040	Just first of all, and I hope, let's be,
+970040	971840	let's speak honestly and transparently,
+971840	973480	even if the team is on the phone today.
+973480	977040	But do you feel that we, we as a global transparency team,
+977040	979040	we miss something about your requirements.
+979040	982280	And using that, that there was a misduring the project
+982280	986160	that we, explaining why we are facing this situation today.
+987320	988520	Matthew, I'm really sorry.
+988520	990560	I don't have the historical reference
+990560	993040	because I got into the role six months back.
+993040	994040	Okay.
+994040	999040	And, and I'm, I'm just carrying the work
+999960	1002320	that was already underway.
+1003640	1006760	So I, I'm not really, okay.
+1006760	1010440	I'm sure of what conversations have happened before.
+1010440	1011440	I'm really sorry.
+1011440	1014480	I'm not able to throw much light on that.
+1014480	1016440	Okay, maybe satish one last question
+1016440	1017640	and then I ended up to you.
+1017640	1022240	So, at the nation and, and how much are they on?
+1022240	1024520	Are you comfortable also?
+1024520	1028000	And can we say that, even if this one is done manually?
+1028000	1030320	First, we would need to, if this is okay with you,
+1030320	1032800	we would need to load the data into the global transparency
+1032800	1036480	solution because for internal analytics purpose,
+1036480	1039360	we need to have a full view of the total transfer of values
+1039360	1042600	for the company because we are presenting, for example,
+1042600	1044400	to Patrick Harper on Monday.
+1044400	1048640	And he wants to see the entire, the, the entire tier of his,
+1048640	1053120	but this one and they're also more importantly,
+1053120	1055440	because this one is just for internal analytics,
+1055440	1057880	but more importantly, are you comfortable that,
+1057880	1059800	for the, I mean, are you okay?
+1059800	1062960	Sorry, that for the future, we will really understand
+1063760	1068760	how we should address the issues and moving for one final solution
+1071080	1073920	for you to get the data directly from the global solution
+1073920	1077200	because colleagues, these should save significant time
+1077200	1078160	on you, right?
+1078160	1080480	And so sorry that you spent so much time
+1080480	1082840	on transparency, but in the future,
+1082840	1084520	we should be able to provide you something
+1084520	1087840	that you are mostly comfortable with and you just review
+1087840	1091200	and sign off if you agree with you.
+1091200	1093880	Okay, absolutely, absolutely Matthew,
+1093880	1096000	and I think that's the whole idea.
+1096000	1100040	And we would definitely going forward
+1100040	1103800	like to rely on the global transparency tool.
+1103800	1107440	And we need to find some solutions to some of these challenges
+1107440	1111880	that we have enough in our, in our systems today
+1111880	1115920	and how do we really overcome that,
+1115920	1118520	but we're really looking up to you
+1118520	1121080	to help us find solutions.
+1121080	1124320	But that's clearly the intent.
+1124320	1126000	I would really want to ask you,
+1126000	1128120	what do we also want to kind of share?
+1128120	1130760	What's our finding of the reporting
+1130760	1132400	and how our format looks like
+1132400	1134520	and what is it that you want to share with them?
+1136040	1138440	In the current UCP, report, how is it?
+1138440	1141160	Do you want to share that data also with them?
+1141160	1145800	Yes, so we have actually have that format ready
+1145800	1147800	with us, the way UCP and P,
+1147800	1153040	asked us to report it with the total amount
+1153040	1155760	and total aggregate level.
+1155760	1160440	So, and we got this data from the backup data
+1160440	1165440	where we have the spent, under different spend here.
+1167400	1171760	So we are having a specific data set
+1171760	1175200	for speaker fees, render fees and also it gives
+1175200	1180200	a complete visibility how that total data is coming for.
+1181560	1184040	So we have the backup data and from there,
+1184040	1188200	we have generated the report.
+1188200	1190640	Okay, so we will load your report
+1190640	1193200	into the global transparency solution, right?
+1194200	1196240	Afterwards, once you've published,
+1196240	1197760	we will take your data excel
+1197760	1201360	and we will load that into the global transparency solution.
+1202360	1204400	So Matthew, do you mean to say
+1204400	1208640	that once this posted entries or posted SAP line items
+1208640	1211680	are reaching in the SAP IBI?
+1211680	1212680	That's when we do it?
+1216840	1218000	I need to discuss with the team
+1218000	1219760	because you're absolutely right, sorry.
+1219760	1222120	We already have access to the data, right?
+1222120	1224000	Because we already have the interface with ACP,
+1224000	1226400	so we don't need to reload your Excel file,
+1226400	1228080	we have the data, okay?
+1228080	1230920	Now forget about what I said and forget about what I said.
+1231880	1235320	No, the only question mark would be on the RCF control
+1235320	1239120	colleagues, so there are like six, so now it's nine,
+1239120	1240400	we increase to nine.
+1240400	1245400	We have nine RCF controls that we need to execute
+1246440	1250640	on the countries in scope of transparency reporting.
+1250640	1254280	And so we need to see how we do that without you
+1254280	1256200	following the global process.
+1256200	1257960	But it's manageable, we do it with the US
+1257960	1260240	and they are not following the global process.
+1260760	1263640	So just that please keep in mind that we need to work together
+1263640	1265000	on the RCF controls.
+1267000	1268360	And it's all about colleagues,
+1268360	1272040	it's all about reconciliation between SAP
+1272040	1277040	and what has been reported, so it's as your face,
+1277560	1282360	I think it's a URR, RCF, are you familiar with RCF?
+1282360	1284920	Yeah, so that's what I'm talking about.
+1284920	1286800	Self-assessment, right?
+1286800	1288320	Sorry, yeah, self-assessment,
+1288320	1290600	I'm key control testing.
+1290600	1294440	Yeah, one that is supposed to be done in July.
+1295640	1297240	Yeah, you're correct.
+1298560	1300200	You're already very familiar with the process.
+1300200	1302560	Yes, correct.
+1302560	1304680	So reset issue, you are waiting for some time.
+1304680	1307160	Sorry, no worries Matthew.
+1307160	1310040	Just to commend on the question that you asked,
+1310040	1313280	did we miss during the initial project scooping?
+1313280	1316480	I have double verified all the URR's documentation
+1316480	1320680	plus the confirmation that we got during the input collection
+1320680	1323280	when we have set in the ITR also.
+1323280	1325320	So this is not a miss,
+1325320	1328680	the information came out to light very recently.
+1328680	1332320	So I can share the information of course.
+1332320	1334880	I definitely did, but I can tell from Matthew.
+1334880	1336280	But Matthew, I think you know,
+1336280	1339160	I don't think we should look at this as a miss
+1339160	1342080	or a lack of support,
+1342080	1344920	but I think being the first year of transparency,
+1344920	1347880	supporting a lot of these aspects
+1347880	1351840	are also learning for us as well, right?
+1351840	1356640	So I think we are also learning as we're going along
+1356640	1359800	and some of these pieces which were never,
+1359800	1362200	I mean, which used to happen the way it is happening,
+1362200	1364640	but we never really saw that.
+1364640	1368360	For example, the posting bit,
+1368360	1371080	it never really probably occurred to us
+1371080	1373320	that this is the way it would be.
+1373320	1378320	So I think it's more of a discovery phase.
+1378800	1381000	Today as we've completed the year,
+1381000	1385280	I think we are a lot more informed of how things have,
+1385280	1387600	what things happen and how they get reported
+1387600	1389720	and what we need to keep in mind.
+1389720	1393360	And I think we just need to kind of really integrate
+1393360	1394920	that into our tool,
+1394920	1397920	but I don't need that as a miss or a lack of support.
+1397920	1399760	I don't see it that way.
+1399800	1403800	I just see that as a first-time unique experience
+1403800	1404640	that we've had.
+1404640	1408160	And so we might not have been able to articulate everything
+1408160	1409600	and we might not have been visible
+1409600	1412680	of every possible thing that there is.
+1413680	1414720	And to that extent,
+1414720	1417160	there could also be a miss from our end,
+1417160	1420280	but I don't see that as a lack of support from any team.
+1420280	1421440	Definitely not.
+1421440	1422680	No, no, no, I'm glad you said,
+1422680	1423480	you're not doing this,
+1423480	1425280	I think we're pointing to us now.
+1425280	1426240	So I'd now appreciate that.
+1426240	1428880	I'm not really good.
+1428880	1433320	And this is true that with the complex regulatory requirements,
+1433320	1436120	this is true that sometimes it takes a bit,
+1436120	1439320	it's not as straightforward as a normal FIA country.
+1440520	1443080	So, yeah, I mean, it is what it is.
+1443080	1444080	But thanks a lot.
+1444080	1446160	So just to kind of share that's okay, Matthew.
+1446160	1448640	So there were some member organizations
+1448640	1451520	which were using GKC tools in their own,
+1451520	1455240	it could be astral or it could be BMS, I don't remember.
+1455240	1458360	And when they came and there were many workshops
+1458360	1462400	that were conducted by the local association,
+1462400	1465120	industry association on this topic, right?
+1465120	1470120	And one that we recently participated in,
+1471560	1473720	I think they were talking about the challenges
+1473720	1477520	of their global GTC tool exactly on these fronts.
+1477520	1478360	Yeah.
+1478360	1481800	Because even their tool was unable to capture
+1481800	1485560	the post-aid or the accrued ADA,
+1485560	1488720	and it's just giving them an aggregated ones.
+1489680	1491520	Because that's the requirement
+1491520	1494960	across the other affiliate countries worldwide.
+1494960	1497800	India is a very different, unique local, global,
+1497800	1500920	global, the requirement of the government
+1500920	1502560	is very, very different.
+1502560	1506720	So then they have resorted also to manual pieces
+1506720	1509000	and to ensure that all the member organization
+1509000	1510720	have a standard approach.
+1510720	1512240	So there was a directive saying
+1512240	1513720	that let's approach it this way.
+1513720	1516040	So it's evolving one method.
+1516040	1518960	So honestly, time may be venting,
+1518960	1521760	looked at the data, we really were trying to rack up brains
+1521760	1524160	and say that, how do we do this?
+1524160	1526920	Can you just, yeah, please.
+1526920	1529280	You here to understand this,
+1529280	1532920	is there any opportunity for India to do a republication
+1534000	1538520	or do we really strict about any republication?
+1538520	1540520	Why would you do a question?
+1540520	1541880	What would a question is a case?
+1541880	1545000	I think even this was the question that some of us asked.
+1545000	1548840	Because the fear of misreporting was so high,
+1548840	1552560	we checked with the DOP if there was a case of,
+1552560	1557560	or if there's a possibility of re-submitting this,
+1558840	1561840	just like your income tax, advance tax, et cetera.
+1561840	1565160	And it's still the question up in the air.
+1565160	1566400	We don't know.
+1566400	1567560	We don't know what DOP,
+1567560	1571920	because DOP is keeping all the cards pretty close to the chest.
+1573200	1576480	And we really don't know what would the directives be
+1576480	1580320	and how, and if they would allow us a review,
+1580320	1582840	because a lot of companies came up with the proposal
+1582840	1584200	that things would be a lot more clear
+1584200	1586440	or post 31st of March.
+1586440	1588080	And after we have submitted,
+1588080	1590080	there could be a lot more clarity that would come in.
+1590080	1593000	So do we have an opportunity to re-submitted?
+1593000	1595560	We have had no response to this.
+1595560	1600560	We'll have to wait and watch and see how things evolve from here.
+1601520	1606120	The reason I wish, the way that we approach the GT solution,
+1606120	1608680	it is same for all the markets, right?
+1608680	1611560	But the only difference that I see between other markets
+1611560	1614600	and India is, the window is only two months.
+1614600	1617760	So for other countries, it is around six months.
+1617760	1622000	So by the time when we do a disclosure for other markets,
+1622000	1625800	all the actuals are already paid.
+1625800	1629400	That means the clear dates already come with us, right?
+1629400	1631640	So that we were able to disclose all the data.
+1633480	1636560	So that's the reason I'm just looking at
+1636560	1638960	if there is any opportunity for re-submitting the report
+1638960	1642600	after a quarter or so, then it would solve by itself.
+1642600	1644800	You know, the two that we have.
+1645680	1649240	I think we have requested as an organization,
+1649240	1654080	as an association for a window again, Sathish,
+1654080	1656360	but there has been no response from the DOP.
+1657320	1661160	But if that happens and if there is a second window available,
+1661160	1665640	going forward, then GTC tool becomes the best option, right?
+1665640	1670640	So, but without any modifications in the current way, right?
+1671240	1673960	Because then everything gets easily visible
+1673960	1676240	and you can just report whatever really comes out of it.
+1676240	1678680	But if it is not, if it is not,
+1678680	1681480	then we might have to really rethink on the design
+1681480	1685800	and see what can be changed
+1685800	1690120	and how can we really capture the posted data.
+1692160	1695080	But that's for a later date, but let's just go ahead.
+1695080	1697120	But this is a window question.
+1697120	1698080	It's still up in the air.
+1698080	1699760	We don't know how it's going to manifest,
+1699760	1701640	but just give us some time.
+1701640	1704000	We will definitely keep you informed
+1704000	1706880	of what and how this is evolving.
+1706880	1710320	But at the stage, I'm as clueless as you are.
+1710320	1712120	Honestly, I don't have any answer.
+1712120	1713120	Thank you.
+1713120	1715360	And Chris, we'll need to do a make a reconciliation
+1715360	1719880	between SAP and Bishur, with definitively.
+1719880	1723680	And once there will be this reconciliation option
+1723680	1725960	in Bishur, maybe, I mean, we have already
+1725960	1728520	the reconciliation option in Bishur with SAP to be.
+1730520	1732520	We have two media.
+1732520	1734640	These terms are not actually linked, Matthew.
+1734640	1737760	Be sure this app, they don't speak to each other.
+1737760	1739960	But it's my understanding is that it's
+1739960	1743000	planned for various in the next three days or two, right?
+1743000	1746600	It should be available very soon.
+1746600	1749120	Probably as a country, we don't have that information, Matthew.
+1749120	1751320	OK, the second I will check with the person
+1751320	1753240	with the system owner in the browser.
+1753240	1754200	I will check that too.
+1754200	1755200	I will let you know.
+1755200	1757680	Because then, then, also, soft truths
+1757680	1761480	will be more be sure than SAP then.
+1761480	1762000	For you.
+1762000	1764160	Call the particulates.
+1764160	1766520	So Matthew, we also have another third system, which
+1766520	1768960	is conquer, because there are times
+1768960	1774000	when we also book the flights, et cetera,
+1774000	1776800	accommodation through conquer.
+1776800	1777800	Yeah.
+1777800	1778800	OK.
+1778800	1779800	Easy.
+1779800	1780800	Easy.
+1780800	1781800	PCD.
+1781800	1784760	It is not integrated.
+1784760	1789200	The PCD is integrated with GTC.
+1789200	1791000	It's a global transparency solution.
+1791800	1793800	Yeah.
+1793800	1794560	OK.
+1794560	1796800	I mean, look, this is a discussion we
+1796800	1797680	can continue.
+1797680	1799080	We are already over time.
+1799080	1801720	But definitely, let's conclude.
+1801720	1803840	Please, thanks, colleagues, so much for your manual,
+1803840	1807920	for having prepared the disclosure manually.
+1807920	1810080	Big, big, big thank you for that.
+1810080	1812680	Effectively, it's a distance for us as well.
+1812680	1814960	And let's meet after your disclosure in order
+1814960	1817720	to make sure that we adjust our process
+1817720	1819800	in order to make your requirements.
+1819800	1824640	But, colleagues, we are covering 50 plus countries.
+1824640	1828200	So I'm very sure that even if you have specific requirements,
+1828200	1829080	we will manage.
+1829080	1830440	We should manage.
+1830440	1832280	We will be able to achieve that.
+1832280	1833120	No, thank you, Matthew.
+1833120	1837520	In fact, we definitely want to rely on GTC
+1837520	1841240	for the upcoming reporting the next year.
+1841240	1843880	And we will come back to you with what
+1843880	1847200	is the status with the DOP this year.
+1847200	1849680	We'll share with you everything that we have.
+1849680	1852200	And we'll walk together and see what we can do.
+1852200	1853040	Fantastic.
+1853040	1853800	Fantastic.
+1853800	1854480	Hey, Avina, sure.
+1854480	1856680	So I know the expectations are there
+1856680	1859760	from the local association, just to be realistic also
+1859760	1862160	from what we observed from the other countries
+1862160	1864640	with the first year of disclosure.
+1864640	1867800	Honestly, you need exactly, as you say before,
+1867800	1870000	the companies then in a few years
+1870000	1873240	to be at the level that is expected from the association.
+1873240	1875880	So I wouldn't worry too much to be honest with you.
+1875880	1877280	Absolutely.
+1877280	1879840	It's just that there have been a few instances
+1879840	1884600	where the government is being a little hard
+1884600	1886880	on a couple of organizations.
+1886880	1890000	So we just don't want to be on the wrong side.
+1890000	1893680	And it's just that all the presidents
+1893680	1898480	are just being doubly careful, more cautious than brave.
+1898480	1900600	So I think we'll get there.
+1900600	1903680	So hopefully the ticket can lead to fines.
+1903680	1905360	It's more than fines.
+1905360	1908280	They won't be prosecuted.
+1908280	1910440	Is it a loo or is it a good?
+1910440	1910960	It's a loo.
+1910960	1911800	So what?
+1911800	1915640	So I think in the first year, given one
+1915640	1919400	of the member organizations, the government
+1919400	1924080	has come so hard that it's not just so a lot of agencies
+1924080	1927640	can really come after you, the income tax.
+1927640	1931440	And all of the investigative agencies
+1931440	1934040	can really open, can come knocking on the doors.
+1934040	1935400	This is this.
+1935400	1936840	And that's the worry.
+1936840	1940520	And all your books of account are going to be opened up.
+1940520	1943560	So I don't know how this will mature.
+1943560	1946240	And given the first year, at this point of time,
+1946240	1947800	it's only conjecture.
+1947800	1950800	But I think if we will have to just wait and watch
+1950800	1952880	what's the maturity with which government really
+1952880	1955920	looks at this and how it handles this.
+1955920	1957160	But at this point of time, it really
+1957160	1958560	looks very draconian.
+1958560	1961320	And it's more fear.
+1961320	1965760	And hence, people are a little cautious
+1965760	1968640	and don't want to be on the wrong side.
+1968640	1970920	So that's the whole idea, Matthew.
+1970920	1972920	OK.
+1972920	1975440	Look, we are here.
+1975440	1978720	So it's not because you agree that you will do it manually.
+1978720	1981640	If you need any help, we are a big team.
+1981640	1983000	40 plus people.
+1983000	1984160	We are here to support you.
+1984160	1988080	So should you need our help to reduce something,
+1988080	1990160	to load data for you or whatever it is,
+1990160	1992720	just let us know.
+1992720	1994440	Really big help, Matthew.
+1994440	1997680	Thanks a ton to you and your team for the help and support.
+1997680	1999720	And Rashi has been of great help.
+1999720	2000880	And I don't see it again.
+2000880	2001720	I want to re-emphasize.
+2001720	2003240	I don't think it's a lack of support.
+2003240	2005720	In fact, we've had a lot of support.
+2005720	2007800	And I can go and record to say this.
+2007800	2010240	And at least the last six months, I've
+2010240	2012040	missed a lot of support.
+2012040	2015320	And I think it's because it's an evolving and a dynamic one,
+2015320	2019320	it's possible that we've also missed a couple of things.
+2019320	2021960	But just give us this one cycle.
+2021960	2024000	And we'll see how it goes from year on.
+2024000	2024800	Sounds big.
+2024800	2025480	Sounds big.
+2025480	2027320	And thanks for saying that about the team.
+2027320	2028880	I had not done that up to 30.
+2028880	2030400	But thanks for saying.
+2030400	2031920	Thank you so much.
+2031920	2032680	Take care.
+2032680	2033200	We stay here.
+2033200	2034200	Thanks a lot.
+2034200	2034720	Thank you.
+2034720	2035720	Thank you.
+2035720	2036560	Thank you.
+2036560	2038200	Take care, everyone.
+2038200	2038960	Hey, thanks.

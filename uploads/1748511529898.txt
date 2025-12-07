@@ -1,0 +1,86 @@
+So we just have two months to ensure all the payments are cleared and ensure we get into the report.
+So have you experienced any situation like this where some of the payments which are not cleared?
+In that case the event still falls in the year within the year but the payment happens after the financial year.
+So how are the pharmaceutical companies reporting? Do we have a window again to update the report?
+So generally for the other country reports we have a more broad let's say timeline.
+I can ask you to the authority in India if they have any suggestion.
+I'm not sure if we have seen something similar in the past but I will check also internally.
+So basically the thing is that even if you have done the activities in the year sometimes the payment came.
+I mean come after the two months where you are expected to collect all the expenses.
+Right now we can look at the approved amounts in wise amounts before even making the payment.
+So I'm consolidated all of it for the services that we have utilized and make the report.
+Now what happens is but when we automate the systems the payment comes into the next period.
+But the payment still shows in the previous period.
+So there will be a conflict in terms of the consolidation and reporting and this is going to be there forever.
+So any kind of suggestions or guidance over this will there be any secondary window that will be opened up.
+If I have dated payments you know ideally it should be so that you know all that we are trying to do is generally get the data.
+You know voluntary report.
+So another but another thing that we can ask to the authority is that if it's possible to make amendments to what was disclosed.
+Just because of this situation so from from a legal perspective I think I can check with the authority and we can find a solution.
+From a system perspective I don't think there's anything to change at the moment for Audi.
+We don't have to add but what I personally feel is for no what is we have two company courts.
+So right now I think we have we have provision only one report for India but more you know I think we have to generate two reports
+because we have one what is okay limited and no what is in the unlimited and we have got payments.
+So we have to segregate that.
+Okay I think yeah on that we can we can definitely divide into two different entities but I see that there's Sara.
+Everyone apology for being late.
+No but I mean I was like I was informed that she was late and I wouldn't have started if not.
+So Sara basically the the figure that we we would need to check with the with the local authority is what happened if the payment is done after the so basically the reports.
+The reporting period ends in December but then the reporting is done after two months but some payments are not yet done after two months from the closing of the year.
+So we have these payments that are outside both reporting period basically because they are not fully collected in the correct year but neither on the second year because the activities is from the previous year.
+So basically what we need to check is if they can correct or amend the reporting done or if there's any best practice to follow like doing it the next year or reporting in a different way the expenses that are not yet paid before the deadline.
+I don't know if you have any any other suggestion on that or ideas.
+No we can we can double check what what should be the approach to be followed for what regards IITR you know guys we have it as a standard.
+The possibility to run delta reports and so to include only the leftovers maybe lay payments that were uploaded in the system later compared with the deadlines and whatsoever.
+So you could run a delta maybe or you could even decide to generate a second version of the report and entire second version of the report including also the leftovers that were loaded in a later stage.
+I think as long as the regulatory allows any of these options you know it would be a good solution altogether and I believe you know not just no artist all the farmers and farmer companies will have the same issue technically.
+So maybe some kind of a guidance over there and then we can see if it has to be a updated report with consolidation or the leftover part.
+Okay. We will we will investigate it.
+This is not very urgent.
+But the sooner it is better because again we missed the second semester of this year then we will end up in the same situation for the next year.
+Right now we have decided to provision all the you know pending payments also into the report manually.
+Unfortunately we cannot use the IITR report for this disclosure but we will try to make some corrections and kind of keep the systems up and running.
+Okay. Do you have any of the question?
+Shasateesh came because of some late payments that came in.
+Late payments that are not done it.
+Okay.
+So not meaning it so that means we have to provision it because you know the country team is very particular about ensuring everything anything the services are received.
+They want to show the amounts.
+They do not want to say because the penalty is and the consequences could be higher because there is no proper guidance over it.
+Once we have the guidance then I think we can relax this you know constantly.
+Yeah there might be also some follow ups by the government.
+I'm assuming considering that it is the first year reporting and I think they will start receiving some questions as such maybe they hopefully they will release on frequently asked questions.
+And what we also heard is the country ERC head has already been in touch with the authorities and there were questions around it but there is no proper response.
+Maybe that's where I thought you know I will seek your help to see if your contacts can help.
+Maybe there is a guideline or something that they are trying to establish because these questions are pretty normal you know.
+Yes of course.
+Okay let's decide.
+Sorry sorry.
+No no no.
+So conclude from if we if we take the info specifications that is currently the specs are to disclose the report based on the activity dates.
+So even if a payment is loaded in 2026 for example when you are you have to disclose it as part of an activity of 2025.
+Yes.
+The debt that you will work in any way any day it's also the read the complete read down should work.
+But again let's let's try to get an understanding of what should be on the approach to the authorities.
+Because for us it will be considered as a republication if we are updating that we need to get a sign off in the first place from the transparency change board.
+And if the country provisions that you know maybe after three months or four months another update to the report it will be much easier.
+We don't have to change anything.
+Okay then I think so basically it's not the payment is a so the problem is not when the payment happened but when you are the expense.
+Correct.
+Okay so basically when it is cleared is when we will hit the systems the information will hit the system then we will be able to consolidate it.
+Because you have an automation that clear the expense when it is paid right correct.
+Okay now I understand.
+Okay let's try to get in touch with the authority.
+Okay and any any 22 timeline then this could be shared across.
+So we will reach out also today I mean tomorrow at the latest but the problem is when the answer and we cannot provide a time limit.
+Okay then let us settle that during our next monthly correct and see if we have an answer.
+If we don't receive any answer before we can we can share let's say a second request during our next call.
+Okay sounds good.
+Yes I think just to keep everybody honest here we reached out already I think a couple of three months ago to address a question that came in but we did not receive any answer back then.
+So just to set the expectation not not sure if we will be able to get a reply when we will try to follow up more and more that for sure.
+But yeah we didn't get much much response so far actually no responses so far so I can understand.
+Okay let's hope for the best we get some response and some window you know when we get home now.
+Okay thank you very much.
+Okay thank you so much.
+Thank you thank you.
+Thank you bye.

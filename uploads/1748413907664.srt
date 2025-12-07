@@ -1,0 +1,1332 @@
+1
+00:00:00,000 --> 00:00:04,520
+So we are taking it from SAP only.
+
+2
+00:00:04,520 --> 00:00:05,320
+Then we are good.
+
+3
+00:00:07,840 --> 00:00:13,480
+So I need the, I mean, this I would effectively
+
+4
+00:00:13,480 --> 00:00:17,080
+be in favor to use the global transparency solution
+
+5
+00:00:17,080 --> 00:00:19,480
+for the reporting of one of the legal entities,
+
+6
+00:00:19,480 --> 00:00:23,680
+but I really want the local compliance team
+
+7
+00:00:23,680 --> 00:00:27,000
+to be comfortable with that.
+
+8
+00:00:27,720 --> 00:00:31,320
+So Matthew, really, the challenge is here on the second point.
+
+9
+00:00:31,320 --> 00:00:35,480
+The legal entity we already discussed earlier with Rashi.
+
+10
+00:00:35,480 --> 00:00:37,920
+And there was a work around that they proposed right now,
+
+11
+00:00:37,920 --> 00:00:39,920
+which we could have worked.
+
+12
+00:00:39,920 --> 00:00:42,080
+But challenge really is the second point
+
+13
+00:00:42,080 --> 00:00:45,880
+where we would have to capture the posting data as well,
+
+14
+00:00:45,880 --> 00:00:48,480
+which is not there currently in the SAP IPA report.
+
+15
+00:00:48,480 --> 00:00:50,960
+So that means we will have a missing data coming
+
+16
+00:00:50,960 --> 00:00:52,680
+in the IPA report.
+
+17
+00:00:52,680 --> 00:00:54,280
+OK.
+
+18
+00:00:54,280 --> 00:00:57,120
+Just on this front, I don't.
+
+19
+00:00:57,120 --> 00:01:00,560
+So this is very different.
+
+20
+00:01:00,560 --> 00:01:03,160
+Usually transparency reporting is based on payment.
+
+21
+00:01:03,160 --> 00:01:08,200
+So we are disclosing what Novartis effectively
+
+22
+00:01:08,200 --> 00:01:12,840
+give to HCPs, HCOs, and patient organizations.
+
+23
+00:01:12,840 --> 00:01:15,640
+What I'm trying to understand is, are we sure
+
+24
+00:01:15,640 --> 00:01:19,000
+that this is the regulatory requirement
+
+25
+00:01:19,000 --> 00:01:24,040
+to disclose at an event level and not at payment level?
+
+26
+00:01:24,040 --> 00:01:25,520
+Because this is very new to me.
+
+27
+00:01:25,520 --> 00:01:28,600
+We don't have such situation in any of the 50
+
+28
+00:01:28,600 --> 00:01:31,000
+plus countries that we are managing.
+
+29
+00:01:31,000 --> 00:01:33,240
+So Matthew, you're absolutely correct.
+
+30
+00:01:33,240 --> 00:01:36,040
+So Novartis, not Novartis, India
+
+31
+00:01:36,040 --> 00:01:39,120
+has got a pre-unique regulatory requirement
+
+32
+00:01:39,120 --> 00:01:43,520
+which requires the pharmaceutical organizations
+
+33
+00:01:43,520 --> 00:01:46,440
+to report at the event level, which
+
+34
+00:01:46,440 --> 00:01:52,040
+means once an event happens and the provisions are made.
+
+35
+00:01:52,040 --> 00:01:58,600
+So the postings that happens through the financial reporting
+
+36
+00:01:58,600 --> 00:02:01,520
+needs to be captured.
+
+37
+00:02:01,520 --> 00:02:03,600
+And this clarification has been
+
+38
+00:02:03,600 --> 00:02:07,800
+grow, has been received through the industry association
+
+39
+00:02:07,800 --> 00:02:12,640
+and also through the Department of Pharmaceuticals
+
+40
+00:02:12,640 --> 00:02:14,720
+for India.
+
+41
+00:02:14,720 --> 00:02:17,280
+So this is a directive that we've...
+
+42
+00:02:17,280 --> 00:02:21,400
+So what happens is, March 31st is the annual year
+
+43
+00:02:22,240 --> 00:02:26,280
+so events that happen the last week or in the month,
+
+44
+00:02:26,280 --> 00:02:29,840
+depending on the contract of the vendors,
+
+45
+00:02:29,840 --> 00:02:33,440
+the payment will not get processed in time,
+
+46
+00:02:33,440 --> 00:02:35,280
+but it will get provisioned.
+
+47
+00:02:35,280 --> 00:02:39,680
+And if it gets provisioned, it can still be posted.
+
+48
+00:02:39,680 --> 00:02:40,680
+Yeah.
+
+49
+00:02:40,680 --> 00:02:42,840
+The payment can happen at a later stage.
+
+50
+00:02:42,840 --> 00:02:44,600
+So that needs to be...
+
+51
+00:02:44,600 --> 00:02:49,000
+And because the event has happened within the fiscal year,
+
+52
+00:02:49,000 --> 00:02:51,920
+it needs to be captured in the report.
+
+53
+00:02:51,920 --> 00:02:53,480
+Nice images.
+
+54
+00:02:53,480 --> 00:02:54,720
+OK.
+
+55
+00:02:54,720 --> 00:02:58,440
+But so...
+
+56
+00:02:58,440 --> 00:03:02,920
+And we have a clear view on what has been accrued
+
+57
+00:03:02,920 --> 00:03:10,320
+as of March 31st that needs to be reported
+
+58
+00:03:10,320 --> 00:03:12,680
+to we have a clear visibility on the accords.
+
+59
+00:03:12,680 --> 00:03:13,480
+Really?
+
+60
+00:03:13,480 --> 00:03:14,280
+Absolutely.
+
+61
+00:03:14,280 --> 00:03:16,080
+Absolutely, yes.
+
+62
+00:03:16,080 --> 00:03:17,080
+Yeah.
+
+63
+00:03:17,080 --> 00:03:19,640
+I know that there are payment that are posted,
+
+64
+00:03:19,640 --> 00:03:22,960
+which have to be considered for the purpose of reporting.
+
+65
+00:03:22,960 --> 00:03:25,160
+But if you are asking clear visibility,
+
+66
+00:03:25,160 --> 00:03:29,120
+as in we don't have that split between what is the exact payment
+
+67
+00:03:29,120 --> 00:03:31,160
+that needs to be...
+
+68
+00:03:31,160 --> 00:03:33,320
+That is in the posting case state.
+
+69
+00:03:33,320 --> 00:03:36,000
+Because that keeps on changing a week after week.
+
+70
+00:03:39,040 --> 00:03:40,720
+Can you repeat this last sentence?
+
+71
+00:03:40,720 --> 00:03:42,520
+I'll teach you the issue of the...
+
+72
+00:03:42,520 --> 00:03:43,560
+So if you have the accords...
+
+73
+00:03:43,560 --> 00:03:47,440
+Let's assume you have an event of 100.
+
+74
+00:03:47,440 --> 00:03:51,200
+60 has been already invoiced as of March 1st,
+
+75
+00:03:51,200 --> 00:03:52,200
+so it's in...
+
+76
+00:03:52,200 --> 00:03:54,480
+And it has been paid, sorry, as in paid.
+
+77
+00:03:54,480 --> 00:03:56,280
+So it's already in ACP.
+
+78
+00:03:56,280 --> 00:03:58,200
+You have 40.
+
+79
+00:03:58,200 --> 00:04:00,560
+You know that the service has been executed,
+
+80
+00:04:00,560 --> 00:04:03,400
+so you have 40 that has been accrued.
+
+81
+00:04:03,400 --> 00:04:07,360
+But by March 31st, this has not been paid.
+
+82
+00:04:07,360 --> 00:04:09,720
+But those 40, if I understand well the rule
+
+83
+00:04:09,720 --> 00:04:13,480
+that we have in India, those 40 needs to be reflected.
+
+84
+00:04:13,760 --> 00:04:16,480
+But with the accords that have been done,
+
+85
+00:04:16,480 --> 00:04:19,240
+we should be able to link the accrued amount
+
+86
+00:04:19,240 --> 00:04:20,840
+with the event, no?
+
+87
+00:04:23,160 --> 00:04:24,840
+So, Matthew, we don't have this event
+
+88
+00:04:24,840 --> 00:04:26,160
+while identification.
+
+89
+00:04:27,200 --> 00:04:29,040
+There is a payment that does not happen yet.
+
+90
+00:04:32,320 --> 00:04:34,520
+So we don't have events by event,
+
+91
+00:04:34,520 --> 00:04:39,400
+the split between paid and a bank, okay.
+
+92
+00:04:39,400 --> 00:04:42,400
+But then, colleagues, I mean, you know, I will never...
+
+93
+00:04:42,400 --> 00:04:44,760
+I mean, please don't get us wrong.
+
+94
+00:04:44,760 --> 00:04:46,680
+We will never force you to use a system
+
+95
+00:04:46,680 --> 00:04:48,240
+that you are not comfortable to use.
+
+96
+00:04:48,240 --> 00:04:50,320
+Honestly, considering the situation
+
+97
+00:04:50,320 --> 00:04:53,200
+and considering that we need to report by the end of the week,
+
+98
+00:04:53,200 --> 00:04:54,040
+this is really...
+
+99
+00:04:54,040 --> 00:04:57,200
+I mean, we need to go with what we use,
+
+100
+00:04:57,200 --> 00:04:59,880
+what we feel is the best solution.
+
+101
+00:04:59,880 --> 00:05:03,240
+The thing is, if you don't have it for the global transparency solution,
+
+102
+00:05:03,240 --> 00:05:06,160
+you will not have it neither for in Excel, right?
+
+103
+00:05:06,160 --> 00:05:09,960
+Or how do you plan to solve this?
+
+104
+00:05:10,960 --> 00:05:13,040
+You see what I mean?
+
+105
+00:05:13,040 --> 00:05:13,920
+You see what I mean?
+
+106
+00:05:13,920 --> 00:05:18,960
+If you don't have an ACP and you don't have the accrual per events,
+
+107
+00:05:18,960 --> 00:05:21,240
+even if you are not using the global transparency solution
+
+108
+00:05:21,240 --> 00:05:24,480
+and you do the reporting manually, how will you do that?
+
+109
+00:05:25,960 --> 00:05:30,480
+Okay, so the payment which has been happened in SAP
+
+110
+00:05:30,480 --> 00:05:33,440
+that we can find out from SAP IBI.
+
+111
+00:05:33,440 --> 00:05:35,920
+Now, the issue right now, what we are having,
+
+112
+00:05:35,920 --> 00:05:40,280
+that those events which happen in February, March,
+
+113
+00:05:40,280 --> 00:05:44,640
+their invoice are being posted in SAP,
+
+114
+00:05:44,640 --> 00:05:46,560
+but that does not been paid
+
+115
+00:05:46,560 --> 00:05:48,200
+because payment would happen
+
+116
+00:05:48,200 --> 00:05:52,720
+basis the credit arms of the vendors.
+
+117
+00:05:52,720 --> 00:05:55,560
+But received not invoiced.
+
+118
+00:05:55,560 --> 00:05:56,440
+Yes.
+
+119
+00:05:56,440 --> 00:06:01,440
+So if we can see, we may see our status in SAP
+
+120
+00:06:01,440 --> 00:06:04,600
+as a post date or created or index,
+
+121
+00:06:04,600 --> 00:06:06,320
+but not the paid.
+
+122
+00:06:06,320 --> 00:06:09,920
+And that paid goes to SAP IBI.
+
+123
+00:06:09,920 --> 00:06:14,640
+So those payments basis the SAP individual data,
+
+124
+00:06:14,640 --> 00:06:18,640
+we have taken an account and factored for reporting,
+
+125
+00:06:18,640 --> 00:06:23,640
+but those data is completely missed in this SAP IBI report.
+
+126
+00:06:23,640 --> 00:06:26,520
+Probably in future, one, two months,
+
+127
+00:06:26,520 --> 00:06:30,760
+probably two months down the line, we may get the data.
+
+128
+00:06:30,760 --> 00:06:34,240
+So that is the reason, you know,
+
+129
+00:06:34,240 --> 00:06:38,920
+the manual data captured all which are paid plus provision
+
+130
+00:06:38,920 --> 00:06:42,760
+plus, you know, posted.
+
+131
+00:06:42,760 --> 00:06:44,760
+Okay.
+
+132
+00:06:44,760 --> 00:06:46,800
+Matthew, just to simplify,
+
+133
+00:06:46,800 --> 00:06:49,280
+in be sure we've always captured the quotation
+
+134
+00:06:49,280 --> 00:06:51,920
+as well as invoices, basis there,
+
+135
+00:06:51,920 --> 00:06:54,960
+the tracking was already prepared by the third party,
+
+136
+00:06:54,960 --> 00:06:56,440
+which captures against which event,
+
+137
+00:06:56,440 --> 00:06:58,880
+which are the payments pending to be posted
+
+138
+00:06:58,920 --> 00:07:02,320
+and which are already in the SAP.
+
+139
+00:07:02,320 --> 00:07:04,000
+So we have that available,
+
+140
+00:07:04,000 --> 00:07:05,840
+but it is just that we don't have a report
+
+141
+00:07:05,840 --> 00:07:07,440
+which clearly by for case,
+
+142
+00:07:07,440 --> 00:07:10,280
+what is paid and posted in SAP right now.
+
+143
+00:07:10,280 --> 00:07:14,440
+So it was a manual effort that has enabled us to reconcile
+
+144
+00:07:15,560 --> 00:07:17,080
+all of this, Matthew.
+
+145
+00:07:17,080 --> 00:07:18,080
+Yeah.
+
+146
+00:07:18,080 --> 00:07:19,360
+Yeah, Matthew.
+
+147
+00:07:19,360 --> 00:07:20,520
+Yeah.
+
+148
+00:07:20,520 --> 00:07:22,040
+And there were two other three,
+
+149
+00:07:22,040 --> 00:07:24,960
+I mean, incidentals, but important.
+
+150
+00:07:24,960 --> 00:07:26,600
+One, this is the first time, of course,
+
+151
+00:07:26,600 --> 00:07:30,440
+India is coming under the Transparency Reporting Act
+
+152
+00:07:30,440 --> 00:07:34,680
+and which means and also given whatever indications
+
+153
+00:07:34,680 --> 00:07:37,480
+that we have, the multinational organizations
+
+154
+00:07:37,480 --> 00:07:39,680
+are going to be under a lot more scrutiny
+
+155
+00:07:39,680 --> 00:07:41,600
+than the local organizations are.
+
+156
+00:07:42,760 --> 00:07:45,920
+They've already made an example of one of the multinational
+
+157
+00:07:45,920 --> 00:07:50,200
+organizations a few months back on one of the breaches
+
+158
+00:07:51,120 --> 00:07:55,120
+and all indications are that all multinational organizations
+
+159
+00:07:55,120 --> 00:07:58,000
+are going to be under heavy scrutiny
+
+160
+00:07:58,000 --> 00:08:00,440
+for at least the cycle, right?
+
+161
+00:08:00,440 --> 00:08:03,680
+So so hence there has been a lot of reliance on
+
+162
+00:08:03,680 --> 00:08:06,600
+what is going to be a uniform standard approach
+
+163
+00:08:06,600 --> 00:08:09,760
+to reporting across the members,
+
+164
+00:08:09,760 --> 00:08:13,160
+the member organizations of the association
+
+165
+00:08:14,120 --> 00:08:18,840
+and we are having a uniform approach towards
+
+166
+00:08:18,840 --> 00:08:22,080
+reporting some of these, right?
+
+167
+00:08:22,080 --> 00:08:25,000
+So so we are being a lot more conservative
+
+168
+00:08:25,000 --> 00:08:29,200
+and not aggressive and we are ensuring that
+
+169
+00:08:29,200 --> 00:08:31,520
+even the ones which have been accrued
+
+170
+00:08:32,480 --> 00:08:36,000
+and one spare services have been taken
+
+171
+00:08:36,000 --> 00:08:38,040
+but payments will be made at a later stage
+
+172
+00:08:38,040 --> 00:08:39,240
+that still will report it.
+
+173
+00:08:40,560 --> 00:08:43,280
+There is a provision where we have
+
+174
+00:08:45,280 --> 00:08:50,120
+used disclaimers and we've also put in those comments
+
+175
+00:08:50,120 --> 00:08:52,640
+but not exhaustive limited comments
+
+176
+00:08:52,680 --> 00:08:55,920
+just to ensure that some of the clarity could be
+
+177
+00:08:55,920 --> 00:08:57,960
+provided towards some of these items.
+
+178
+00:08:57,960 --> 00:09:02,520
+So hence the concern on how we really show up
+
+179
+00:09:02,520 --> 00:09:03,960
+in the first year of reporting.
+
+180
+00:09:05,000 --> 00:09:06,520
+But I've been asked then, are you telling me
+
+181
+00:09:06,520 --> 00:09:11,760
+that you already have done the data collection, right?
+
+182
+00:09:11,760 --> 00:09:14,040
+For what you believe should be disclosed
+
+183
+00:09:14,040 --> 00:09:15,200
+by the end of this week.
+
+184
+00:09:16,760 --> 00:09:20,080
+You have for the truly guarantees.
+
+185
+00:09:20,080 --> 00:09:20,920
+Yeah.
+
+186
+00:09:23,640 --> 00:09:25,080
+I mean,
+
+187
+00:09:25,080 --> 00:09:28,040
+so what is the question today?
+
+188
+00:09:28,040 --> 00:09:30,560
+Is it, are you asking for an exemption
+
+189
+00:09:30,560 --> 00:09:32,760
+to use the global solution and the global end
+
+190
+00:09:32,760 --> 00:09:34,160
+to follow the global process?
+
+191
+00:09:36,320 --> 00:09:37,800
+No, that's the internal Matthew.
+
+192
+00:09:37,800 --> 00:09:39,560
+Just to bring you over.
+
+193
+00:09:39,560 --> 00:09:40,800
+Thank you.
+
+194
+00:09:40,800 --> 00:09:41,640
+Thank you.
+
+195
+00:09:41,640 --> 00:09:44,560
+That is from the country is to go with the manual
+
+196
+00:09:44,560 --> 00:09:48,640
+disclosure, not for the standard global
+
+197
+00:09:48,640 --> 00:09:51,520
+transparency solution because very simply implemented.
+
+198
+00:09:51,520 --> 00:09:54,600
+I'm absolutely, but for me it's fine.
+
+199
+00:09:54,600 --> 00:09:55,440
+Absolutely.
+
+200
+00:09:55,440 --> 00:09:57,960
+I mean, I will never prevent you to do what you feel
+
+201
+00:09:57,960 --> 00:09:58,920
+it's best for you.
+
+202
+00:09:58,920 --> 00:10:01,080
+We are no one to say they were.
+
+203
+00:10:01,080 --> 00:10:02,680
+I mean, I feel it's a little bit ashamed
+
+204
+00:10:02,680 --> 00:10:05,160
+that the teams spend so much effort to implement.
+
+205
+00:10:05,160 --> 00:10:07,360
+I don't know exactly if we missed something
+
+206
+00:10:07,360 --> 00:10:11,920
+in the business requirements or if we did not
+
+207
+00:10:11,920 --> 00:10:13,640
+enough listen to you.
+
+208
+00:10:13,640 --> 00:10:16,800
+But obviously if you have the report really
+
+209
+00:10:16,800 --> 00:10:19,800
+in with the manual data collection
+
+210
+00:10:19,800 --> 00:10:21,760
+and you feel comfortable with the figures,
+
+211
+00:10:21,760 --> 00:10:24,320
+you should report that you have definitively.
+
+212
+00:10:24,320 --> 00:10:25,880
+I mean, I don't know.
+
+213
+00:10:25,880 --> 00:10:28,560
+I mean, actually, it's what you were asking for more.
+
+214
+00:10:28,560 --> 00:10:30,640
+That was the, that was the ask, Matthew.
+
+215
+00:10:30,640 --> 00:10:35,760
+And also there were a couple of other evolving
+
+216
+00:10:35,760 --> 00:10:36,440
+situations.
+
+217
+00:10:36,440 --> 00:10:40,280
+The other evolving situation was one of the
+
+218
+00:10:40,280 --> 00:10:43,320
+East signatories to the transparency report
+
+219
+00:10:43,320 --> 00:10:45,320
+was the country president.
+
+220
+00:10:45,320 --> 00:10:47,960
+And the country president would have
+
+221
+00:10:47,960 --> 00:10:50,680
+to record his signature on the report
+
+222
+00:10:50,680 --> 00:10:53,080
+before the report is presented.
+
+223
+00:10:53,080 --> 00:10:55,160
+And he was also traveling.
+
+224
+00:10:55,160 --> 00:10:58,240
+So he's currently out of the country.
+
+225
+00:10:58,240 --> 00:11:01,360
+So before he moved out of the country
+
+226
+00:11:01,360 --> 00:11:06,200
+or official business, we had to kind of see the report
+
+227
+00:11:06,200 --> 00:11:10,840
+and be comfortable with what was captured in the report.
+
+228
+00:11:10,840 --> 00:11:13,560
+So if, and those were the pieces.
+
+229
+00:11:13,560 --> 00:11:15,960
+And of course, all of this was in accordance
+
+230
+00:11:16,040 --> 00:11:22,200
+in line with how the association guided us.
+
+231
+00:11:22,200 --> 00:11:26,400
+And what was the directive in terms of how
+
+232
+00:11:26,400 --> 00:11:28,080
+it had to be presented.
+
+233
+00:11:28,080 --> 00:11:29,160
+So those were the things.
+
+234
+00:11:29,160 --> 00:11:33,800
+So of course, Wade in also very heavily.
+
+235
+00:11:33,800 --> 00:11:38,640
+And hence the ask and the request from our side.
+
+236
+00:11:38,640 --> 00:11:43,200
+I mean, no, no, so let's go apparently you're already
+
+237
+00:11:43,200 --> 00:11:44,960
+you're done with the reporting.
+
+238
+00:11:44,960 --> 00:11:47,040
+So let's continue what you've initiated.
+
+239
+00:11:47,040 --> 00:11:51,840
+Just first of all, and I hope let's be,
+
+240
+00:11:51,840 --> 00:11:53,640
+let's speak honestly and transparently
+
+241
+00:11:53,640 --> 00:11:55,280
+even if the team is on the phone today.
+
+242
+00:11:55,280 --> 00:11:58,840
+But do you feel that we as a global transparency team,
+
+243
+00:11:58,840 --> 00:12:00,840
+we miss something about your requirements.
+
+244
+00:12:00,840 --> 00:12:04,080
+And using that, there was a miss during the project
+
+245
+00:12:04,080 --> 00:12:09,080
+that we explaining why we are facing this situation today.
+
+246
+00:12:09,080 --> 00:12:10,320
+Matthew, I'm really sorry.
+
+247
+00:12:10,320 --> 00:12:12,400
+I don't have the historical reference
+
+248
+00:12:12,400 --> 00:12:14,840
+because I got into the role six months back.
+
+249
+00:12:15,800 --> 00:12:25,400
+And I'm just carrying the work that was already underway.
+
+250
+00:12:25,400 --> 00:12:30,760
+So I'm not really sure of what conversations have happened
+
+251
+00:12:30,760 --> 00:12:32,160
+before.
+
+252
+00:12:32,160 --> 00:12:32,920
+I'm really sorry.
+
+253
+00:12:32,920 --> 00:12:36,200
+I'm not able to throw much light on that.
+
+254
+00:12:36,200 --> 00:12:38,200
+OK, maybe satish one last question.
+
+255
+00:12:38,200 --> 00:12:39,400
+And then I ended up to you.
+
+256
+00:12:39,400 --> 00:12:43,240
+So all the nation and the Russian
+
+257
+00:12:43,240 --> 00:12:46,320
+they are, are you comfortable also?
+
+258
+00:12:46,320 --> 00:12:49,800
+And can we say that even if this one is done manually?
+
+259
+00:12:49,800 --> 00:12:52,120
+First, we would need to, if this is OK with you,
+
+260
+00:12:52,120 --> 00:12:54,600
+we would need to load the data into the global transparency
+
+261
+00:12:54,600 --> 00:12:58,280
+solution because for internal analytics purpose,
+
+262
+00:12:58,280 --> 00:13:00,400
+we need to have a full view of the total transfer
+
+263
+00:13:00,400 --> 00:13:04,400
+of values for the company because we are presenting, for example,
+
+264
+00:13:04,400 --> 00:13:06,240
+to Patrick Harper on Monday.
+
+265
+00:13:06,240 --> 00:13:10,480
+And he wants to see the entire, the entire tier of this.
+
+266
+00:13:10,480 --> 00:13:14,920
+But this one and they were so more importantly
+
+267
+00:13:14,920 --> 00:13:17,280
+because this one is just for internal analytics.
+
+268
+00:13:17,280 --> 00:13:19,040
+But more importantly, are you comfortable
+
+269
+00:13:19,040 --> 00:13:22,320
+that for the, I mean, are you OK, sorry?
+
+270
+00:13:22,320 --> 00:13:24,800
+That for the future, we will really understand
+
+271
+00:13:24,800 --> 00:13:30,160
+what, how we should address the issues
+
+272
+00:13:30,160 --> 00:13:33,240
+and moving forward, find a solution for you
+
+273
+00:13:33,240 --> 00:13:35,720
+to get the data directly from the global solution
+
+274
+00:13:35,720 --> 00:13:39,000
+because colleagues, these should save significant time
+
+275
+00:13:39,000 --> 00:13:39,960
+from you, right?
+
+276
+00:13:39,960 --> 00:13:42,280
+And so sorry that you spent so much time
+
+277
+00:13:42,280 --> 00:13:44,640
+on transparency, but I think in the future,
+
+278
+00:13:44,640 --> 00:13:46,320
+we should be able to provide you something
+
+279
+00:13:46,320 --> 00:13:48,560
+that you are mostly comfortable with.
+
+280
+00:13:48,560 --> 00:13:53,000
+And you just review and sign off if you agree with you.
+
+281
+00:13:53,000 --> 00:13:55,600
+OK, absolutely, not absolutely, Matthew.
+
+282
+00:13:55,600 --> 00:13:57,600
+And I think that's the whole idea.
+
+283
+00:13:57,600 --> 00:14:01,800
+And we would definitely going forward,
+
+284
+00:14:01,800 --> 00:14:05,520
+like to rely on the global transparency tool.
+
+285
+00:14:05,600 --> 00:14:09,200
+And we need to find some solutions to some of these challenges
+
+286
+00:14:09,200 --> 00:14:13,640
+that we have enough in our systems today.
+
+287
+00:14:13,640 --> 00:14:17,680
+And how do we really overcome that?
+
+288
+00:14:17,680 --> 00:14:20,280
+But we're really looking up to you
+
+289
+00:14:20,280 --> 00:14:22,840
+to help us find solutions.
+
+290
+00:14:22,840 --> 00:14:26,320
+But that's clearly the intent.
+
+291
+00:14:26,320 --> 00:14:27,960
+I would really want to ask, you know what,
+
+292
+00:14:27,960 --> 00:14:29,840
+what do we also want to kind of share?
+
+293
+00:14:29,840 --> 00:14:32,520
+What's our finding of the reporting?
+
+294
+00:14:32,520 --> 00:14:34,560
+And how our format looks like and what
+
+295
+00:14:34,560 --> 00:14:37,800
+does it that you want to share with them?
+
+296
+00:14:37,800 --> 00:14:40,200
+In the current UCP API report, how is it?
+
+297
+00:14:40,200 --> 00:14:43,000
+Do you want to share that data also with them?
+
+298
+00:14:43,000 --> 00:14:47,600
+So we have actually had that format ready.
+
+299
+00:14:47,600 --> 00:14:52,680
+We passed the way UCPMP asked us to report it
+
+300
+00:14:52,680 --> 00:14:57,520
+with the total amount and total aggregate level.
+
+301
+00:14:57,520 --> 00:15:02,200
+So and we got this data from the backup data
+
+302
+00:15:02,200 --> 00:15:09,200
+where we have the spin under different spin here.
+
+303
+00:15:09,200 --> 00:15:13,560
+So we are very specific data set
+
+304
+00:15:13,560 --> 00:15:17,000
+for speaker fees, render fees, and also it gives
+
+305
+00:15:17,000 --> 00:15:23,400
+a complete visibility how that total data is coming for.
+
+306
+00:15:23,400 --> 00:15:25,880
+So we have the backup data and from there,
+
+307
+00:15:25,880 --> 00:15:29,880
+we have generated the report.
+
+308
+00:15:29,880 --> 00:15:30,760
+OK.
+
+309
+00:15:30,760 --> 00:15:33,680
+So we will load your report into the global transparency
+
+310
+00:15:33,680 --> 00:15:36,040
+solution, right?
+
+311
+00:15:36,040 --> 00:15:38,160
+Afterwards, once you've published, we
+
+312
+00:15:38,160 --> 00:15:41,920
+will take your data and we will load that into the global
+
+313
+00:15:41,920 --> 00:15:43,960
+transparency search.
+
+314
+00:15:43,960 --> 00:15:48,400
+So Matthew, do you mean to say that once this posted entries
+
+315
+00:15:48,400 --> 00:15:53,520
+or posted SAP line items are reaching in the SAP IBI?
+
+316
+00:15:53,520 --> 00:15:54,320
+That's when we do it?
+
+317
+00:15:58,560 --> 00:16:00,160
+I need to discuss with the team because you
+
+318
+00:16:00,160 --> 00:16:01,560
+are absolutely right, sorry.
+
+319
+00:16:01,560 --> 00:16:03,920
+We already have access to the data, right?
+
+320
+00:16:03,920 --> 00:16:05,840
+Because we already have the interface with SAP.
+
+321
+00:16:05,840 --> 00:16:08,200
+So we don't need to reload your Excel file.
+
+322
+00:16:08,200 --> 00:16:09,240
+We have the data.
+
+323
+00:16:09,240 --> 00:16:13,680
+OK, now forget about what I said and forget about what I said.
+
+324
+00:16:13,680 --> 00:16:17,120
+No, the only question math would be on the RCF control
+
+325
+00:16:17,120 --> 00:16:17,680
+colleagues.
+
+326
+00:16:17,680 --> 00:16:20,920
+So there are like six, so now it's nine.
+
+327
+00:16:20,920 --> 00:16:22,200
+We increase to nine.
+
+328
+00:16:22,200 --> 00:16:29,840
+We have nine RCF controls that we need to execute on the countries
+
+329
+00:16:29,840 --> 00:16:32,400
+scope of transparency reporting.
+
+330
+00:16:32,400 --> 00:16:36,040
+And so we need to see how we do that without you
+
+331
+00:16:36,040 --> 00:16:37,960
+following the global process.
+
+332
+00:16:37,960 --> 00:16:38,720
+But it's manageable.
+
+333
+00:16:38,720 --> 00:16:40,200
+We do it with the data.
+

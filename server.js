@@ -11,11 +11,13 @@ const axios = require("axios");
 const app = express();
 app.use(express.json());
 app.use(cors());
+app.use(express.static(path.join(__dirname))); // Serve frontend files
 
 const PORT = process.env.PORT || 5001;
 const MONGO_URI = process.env.MONGO_URI || "mongodb://localhost:27017/mp3uploads";
 const TOGETHER_API_KEY = process.env.TOGETHER_API_KEY;
 
+// ✅ MongoDB setup
 mongoose
   .connect(MONGO_URI)
   .then(() => console.log("✅ Connected to MongoDB: mp3uploads"))
@@ -27,25 +29,26 @@ const fileSchema = new mongoose.Schema({
   transcription: String,
   summary: String,
 });
-
 const File = mongoose.model("File", fileSchema);
 
+// ✅ File upload config
 const storage = multer.diskStorage({
   destination: "uploads/",
   filename: (req, file, cb) => {
     cb(null, Date.now() + path.extname(file.originalname));
   },
 });
-const upload = multer({ storage: storage });
+const upload = multer({ storage });
 
+// ✅ Whisper transcription
 async function transcribeAudio(filePath) {
   return new Promise((resolve, reject) => {
     console.log(`⏳ Transcription started for: ${filePath}`);
 
-    const process = spawn("whisper", [filePath, "--model", "base"]);
+    const process = spawn("whisper", [filePath, "--model", "base", "--output_dir", "uploads"]);
 
     process.stdout.on("data", (data) => {
-      console.log(data.toString());
+      console.log("🟡 Whisper log:", data.toString());
     });
 
     process.stderr.on("data", (error) => {
@@ -54,11 +57,13 @@ async function transcribeAudio(filePath) {
 
     process.on("close", (code) => {
       if (code === 0) {
-        console.log(`✅ Transcription completed for: ${filePath}`);
-        fs.readFile(`${filePath}.txt`, "utf8", (err, transcription) => {
+        const baseName = path.basename(filePath, path.extname(filePath));
+        const txtPath = path.join("uploads", baseName + ".txt");
+
+        fs.readFile(txtPath, "utf8", (err, transcription) => {
           if (err) {
             console.error("⚠️ Error reading transcription file:", err);
-            return reject("Transcription failed.");
+            return reject("Transcription read failed.");
           }
           resolve(transcription);
         });
@@ -69,16 +74,19 @@ async function transcribeAudio(filePath) {
   });
 }
 
+// ✅ LLaMA 3.3 summarization
 async function summarizeText(text) {
   try {
     const response = await axios.post(
       "https://api.together.ai/v1/chat/completions",
       {
-        model: "mistral-7b",
+        model: "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
         messages: [
-          { role: "system", content: "Summarize the following meeting transcript:" },
+          { role: "system", content: "You are a helpful assistant. Extract only the key points from the following meeting transcript and prepare the minutes of the meeting and respond in bullet points. Do not write any introductory or closing statements." },
           { role: "user", content: text }
         ],
+        temperature: 0.7,
+        max_tokens: 1024
       },
       {
         headers: {
@@ -87,13 +95,15 @@ async function summarizeText(text) {
         },
       }
     );
+
     return response.data.choices[0].message.content;
   } catch (error) {
-    console.error("❌ Together AI API Error:", error.response ? error.response.data : error.message);
+    console.error("❌ Together AI API Error:", error.response?.data || error.message);
     return "Summarization failed.";
   }
 }
 
+// ✅ POST /upload
 app.post("/upload", upload.single("file"), async (req, res) => {
   try {
     if (!req.file) {
@@ -111,18 +121,24 @@ app.post("/upload", upload.single("file"), async (req, res) => {
     });
 
     await newFile.save();
-    res.status(201).json({ message: "File uploaded successfully", transcription, summary });
+
+    res.status(201).json({
+      message: "File uploaded successfully",
+      transcription,
+      summary,
+      filename: req.file.filename // ✅ send filename for frontend fetch
+    });
   } catch (error) {
-    res.status(500).json({ message: "Server error", error });
+    res.status(500).json({ message: "Server error", error: error.toString() });
   }
 });
 
+// ✅ GET /summary/:filename
 app.get("/summary/:filename", async (req, res) => {
   try {
     const file = await File.findOne({ filename: req.params.filename });
-    if (!file) {
-      return res.status(404).json({ message: "File not found" });
-    }
+    if (!file) return res.status(404).json({ message: "File not found" });
+
     res.status(200).json({ transcription: file.transcription, summary: file.summary });
   } catch (error) {
     res.status(500).json({ message: "Server error", error });
@@ -131,9 +147,11 @@ app.get("/summary/:filename", async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
-}).on("error", (err) => {
-  console.error("❌ Server error:", err);
 });
+
+
+
+
 
 
 

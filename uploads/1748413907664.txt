@@ -1,0 +1,333 @@
+So we are taking it from SAP only.
+Then we are good.
+So I need the, I mean, this I would effectively
+be in favor to use the global transparency solution
+for the reporting of one of the legal entities,
+but I really want the local compliance team
+to be comfortable with that.
+So Matthew, really, the challenge is here on the second point.
+The legal entity we already discussed earlier with Rashi.
+And there was a work around that they proposed right now,
+which we could have worked.
+But challenge really is the second point
+where we would have to capture the posting data as well,
+which is not there currently in the SAP IPA report.
+So that means we will have a missing data coming
+in the IPA report.
+OK.
+Just on this front, I don't.
+So this is very different.
+Usually transparency reporting is based on payment.
+So we are disclosing what Novartis effectively
+give to HCPs, HCOs, and patient organizations.
+What I'm trying to understand is, are we sure
+that this is the regulatory requirement
+to disclose at an event level and not at payment level?
+Because this is very new to me.
+We don't have such situation in any of the 50
+plus countries that we are managing.
+So Matthew, you're absolutely correct.
+So Novartis, not Novartis, India
+has got a pre-unique regulatory requirement
+which requires the pharmaceutical organizations
+to report at the event level, which
+means once an event happens and the provisions are made.
+So the postings that happens through the financial reporting
+needs to be captured.
+And this clarification has been
+grow, has been received through the industry association
+and also through the Department of Pharmaceuticals
+for India.
+So this is a directive that we've...
+So what happens is, March 31st is the annual year
+so events that happen the last week or in the month,
+depending on the contract of the vendors,
+the payment will not get processed in time,
+but it will get provisioned.
+And if it gets provisioned, it can still be posted.
+Yeah.
+The payment can happen at a later stage.
+So that needs to be...
+And because the event has happened within the fiscal year,
+it needs to be captured in the report.
+Nice images.
+OK.
+But so...
+And we have a clear view on what has been accrued
+as of March 31st that needs to be reported
+to we have a clear visibility on the accords.
+Really?
+Absolutely.
+Absolutely, yes.
+Yeah.
+I know that there are payment that are posted,
+which have to be considered for the purpose of reporting.
+But if you are asking clear visibility,
+as in we don't have that split between what is the exact payment
+that needs to be...
+That is in the posting case state.
+Because that keeps on changing a week after week.
+Can you repeat this last sentence?
+I'll teach you the issue of the...
+So if you have the accords...
+Let's assume you have an event of 100.
+60 has been already invoiced as of March 1st,
+so it's in...
+And it has been paid, sorry, as in paid.
+So it's already in ACP.
+You have 40.
+You know that the service has been executed,
+so you have 40 that has been accrued.
+But by March 31st, this has not been paid.
+But those 40, if I understand well the rule
+that we have in India, those 40 needs to be reflected.
+But with the accords that have been done,
+we should be able to link the accrued amount
+with the event, no?
+So, Matthew, we don't have this event
+while identification.
+There is a payment that does not happen yet.
+So we don't have events by event,
+the split between paid and a bank, okay.
+But then, colleagues, I mean, you know, I will never...
+I mean, please don't get us wrong.
+We will never force you to use a system
+that you are not comfortable to use.
+Honestly, considering the situation
+and considering that we need to report by the end of the week,
+this is really...
+I mean, we need to go with what we use,
+what we feel is the best solution.
+The thing is, if you don't have it for the global transparency solution,
+you will not have it neither for in Excel, right?
+Or how do you plan to solve this?
+You see what I mean?
+You see what I mean?
+If you don't have an ACP and you don't have the accrual per events,
+even if you are not using the global transparency solution
+and you do the reporting manually, how will you do that?
+Okay, so the payment which has been happened in SAP
+that we can find out from SAP IBI.
+Now, the issue right now, what we are having,
+that those events which happen in February, March,
+their invoice are being posted in SAP,
+but that does not been paid
+because payment would happen
+basis the credit arms of the vendors.
+But received not invoiced.
+Yes.
+So if we can see, we may see our status in SAP
+as a post date or created or index,
+but not the paid.
+And that paid goes to SAP IBI.
+So those payments basis the SAP individual data,
+we have taken an account and factored for reporting,
+but those data is completely missed in this SAP IBI report.
+Probably in future, one, two months,
+probably two months down the line, we may get the data.
+So that is the reason, you know,
+the manual data captured all which are paid plus provision
+plus, you know, posted.
+Okay.
+Matthew, just to simplify,
+in be sure we've always captured the quotation
+as well as invoices, basis there,
+the tracking was already prepared by the third party,
+which captures against which event,
+which are the payments pending to be posted
+and which are already in the SAP.
+So we have that available,
+but it is just that we don't have a report
+which clearly by for case,
+what is paid and posted in SAP right now.
+So it was a manual effort that has enabled us to reconcile
+all of this, Matthew.
+Yeah.
+Yeah, Matthew.
+Yeah.
+And there were two other three,
+I mean, incidentals, but important.
+One, this is the first time, of course,
+India is coming under the Transparency Reporting Act
+and which means and also given whatever indications
+that we have, the multinational organizations
+are going to be under a lot more scrutiny
+than the local organizations are.
+They've already made an example of one of the multinational
+organizations a few months back on one of the breaches
+and all indications are that all multinational organizations
+are going to be under heavy scrutiny
+for at least the cycle, right?
+So so hence there has been a lot of reliance on
+what is going to be a uniform standard approach
+to reporting across the members,
+the member organizations of the association
+and we are having a uniform approach towards
+reporting some of these, right?
+So so we are being a lot more conservative
+and not aggressive and we are ensuring that
+even the ones which have been accrued
+and one spare services have been taken
+but payments will be made at a later stage
+that still will report it.
+There is a provision where we have
+used disclaimers and we've also put in those comments
+but not exhaustive limited comments
+just to ensure that some of the clarity could be
+provided towards some of these items.
+So hence the concern on how we really show up
+in the first year of reporting.
+But I've been asked then, are you telling me
+that you already have done the data collection, right?
+For what you believe should be disclosed
+by the end of this week.
+You have for the truly guarantees.
+Yeah.
+I mean,
+so what is the question today?
+Is it, are you asking for an exemption
+to use the global solution and the global end
+to follow the global process?
+No, that's the internal Matthew.
+Just to bring you over.
+Thank you.
+Thank you.
+That is from the country is to go with the manual
+disclosure, not for the standard global
+transparency solution because very simply implemented.
+I'm absolutely, but for me it's fine.
+Absolutely.
+I mean, I will never prevent you to do what you feel
+it's best for you.
+We are no one to say they were.
+I mean, I feel it's a little bit ashamed
+that the teams spend so much effort to implement.
+I don't know exactly if we missed something
+in the business requirements or if we did not
+enough listen to you.
+But obviously if you have the report really
+in with the manual data collection
+and you feel comfortable with the figures,
+you should report that you have definitively.
+I mean, I don't know.
+I mean, actually, it's what you were asking for more.
+That was the, that was the ask, Matthew.
+And also there were a couple of other evolving
+situations.
+The other evolving situation was one of the
+East signatories to the transparency report
+was the country president.
+And the country president would have
+to record his signature on the report
+before the report is presented.
+And he was also traveling.
+So he's currently out of the country.
+So before he moved out of the country
+or official business, we had to kind of see the report
+and be comfortable with what was captured in the report.
+So if, and those were the pieces.
+And of course, all of this was in accordance
+in line with how the association guided us.
+And what was the directive in terms of how
+it had to be presented.
+So those were the things.
+So of course, Wade in also very heavily.
+And hence the ask and the request from our side.
+I mean, no, no, so let's go apparently you're already
+you're done with the reporting.
+So let's continue what you've initiated.
+Just first of all, and I hope let's be,
+let's speak honestly and transparently
+even if the team is on the phone today.
+But do you feel that we as a global transparency team,
+we miss something about your requirements.
+And using that, there was a miss during the project
+that we explaining why we are facing this situation today.
+Matthew, I'm really sorry.
+I don't have the historical reference
+because I got into the role six months back.
+And I'm just carrying the work that was already underway.
+So I'm not really sure of what conversations have happened
+before.
+I'm really sorry.
+I'm not able to throw much light on that.
+OK, maybe satish one last question.
+And then I ended up to you.
+So all the nation and the Russian
+they are, are you comfortable also?
+And can we say that even if this one is done manually?
+First, we would need to, if this is OK with you,
+we would need to load the data into the global transparency
+solution because for internal analytics purpose,
+we need to have a full view of the total transfer
+of values for the company because we are presenting, for example,
+to Patrick Harper on Monday.
+And he wants to see the entire, the entire tier of this.
+But this one and they were so more importantly
+because this one is just for internal analytics.
+But more importantly, are you comfortable
+that for the, I mean, are you OK, sorry?
+That for the future, we will really understand
+what, how we should address the issues
+and moving forward, find a solution for you
+to get the data directly from the global solution
+because colleagues, these should save significant time
+from you, right?
+And so sorry that you spent so much time
+on transparency, but I think in the future,
+we should be able to provide you something
+that you are mostly comfortable with.
+And you just review and sign off if you agree with you.
+OK, absolutely, not absolutely, Matthew.
+And I think that's the whole idea.
+And we would definitely going forward,
+like to rely on the global transparency tool.
+And we need to find some solutions to some of these challenges
+that we have enough in our systems today.
+And how do we really overcome that?
+But we're really looking up to you
+to help us find solutions.
+But that's clearly the intent.
+I would really want to ask, you know what,
+what do we also want to kind of share?
+What's our finding of the reporting?
+And how our format looks like and what
+does it that you want to share with them?
+In the current UCP API report, how is it?
+Do you want to share that data also with them?
+So we have actually had that format ready.
+We passed the way UCPMP asked us to report it
+with the total amount and total aggregate level.
+So and we got this data from the backup data
+where we have the spin under different spin here.
+So we are very specific data set
+for speaker fees, render fees, and also it gives
+a complete visibility how that total data is coming for.
+So we have the backup data and from there,
+we have generated the report.
+OK.
+So we will load your report into the global transparency
+solution, right?
+Afterwards, once you've published, we
+will take your data and we will load that into the global
+transparency search.
+So Matthew, do you mean to say that once this posted entries
+or posted SAP line items are reaching in the SAP IBI?
+That's when we do it?
+I need to discuss with the team because you
+are absolutely right, sorry.
+We already have access to the data, right?
+Because we already have the interface with SAP.
+So we don't need to reload your Excel file.
+We have the data.
+OK, now forget about what I said and forget about what I said.
+No, the only question math would be on the RCF control
+colleagues.
+So there are like six, so now it's nine.
+We increase to nine.
+We have nine RCF controls that we need to execute on the countries
+scope of transparency reporting.
+And so we need to see how we do that without you
+following the global process.
+But it's manageable.
+We do it with the data.
