@@ -7,6 +7,8 @@ const fs = require("fs");
 const path = require("path");
 const { spawn } = require("child_process");
 const axios = require("axios");
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
+
 
 const app = express();
 app.use(express.json());
@@ -78,30 +80,33 @@ async function transcribeAudio(filePath) {
 async function summarizeText(text) {
   try {
     const response = await axios.post(
-      "https://api.together.ai/v1/chat/completions",
+      "https://api.groq.com/openai/v1/chat/completions",
       {
-        model: "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
+        model: "llama-3.1-8b-instant",
         messages: [
-          { role: "system", content: "You are a helpful assistant. Extract only the key points from the following meeting transcript and prepare the minutes of the meeting and respond in bullet points. Do not write any introductory or closing statements." },
+          {
+            role: "system",
+            content:
+              "You are a helpful assistant. Extract only the key points from the meeting transcript and respond in bullet points."
+          },
           { role: "user", content: text }
-        ],
-        temperature: 0.7,
-        max_tokens: 1024
+        ]
       },
       {
         headers: {
-          Authorization: `Bearer ${TOGETHER_API_KEY}`,
-          "Content-Type": "application/json",
-        },
+          Authorization: `Bearer ${GROQ_API_KEY}`,
+          "Content-Type": "application/json"
+        }
       }
     );
 
     return response.data.choices[0].message.content;
   } catch (error) {
-    console.error("❌ Together AI API Error:", error.response?.data || error.message);
+    console.error("❌ Groq API Error:", error.response?.data || error.message);
     return "Summarization failed.";
   }
 }
+
 
 // ✅ POST /upload
 app.post("/upload", upload.single("file"), async (req, res) => {
